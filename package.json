@@ -1,16 +1,16 @@
 {
-    "name": "eslint-config-frontendler",
+    "name": "eslint-config-reactus",
     "version": "0.1.0",
-    "description": "ESLint shareable config for Frontendler",
+    "description": "ESLint shareable config for Reactus",
     "license": "MIT",
-    "repository": "dbeff/eslint-config-frontendler",
+    "repository": "dbeff/eslint-config-reactus",
     "author": {
         "name": "Daniel Beff",
         "email": "daniel.beff@gmail.com",
         "url": "http://www.danielbeff.com.br"
     },
     "keywords": [
-        "frontendler",
+        "react",
         "lint",
         "linter",
         "jscs",
@@ -22,6 +22,6 @@
         "hint"
     ],
     "devDependencies": {
-        
+
     }
 }

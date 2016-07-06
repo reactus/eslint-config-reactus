@@ -1,5 +1,5 @@
 # eslint-config-reactus
-ESLint shareable config for reactus
+ESLint shareable config for Reactus
 
 
 ```
