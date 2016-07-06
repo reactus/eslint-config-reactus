@@ -1,12 +1,12 @@
 module.exports = {
-    "parserOptions": {
+    parserOptions: {
         "ecmaVersion": 6,
         "sourceType": "module",
         "ecmaFeatures": {
             "jsx": true
         }
     },
-    "rules": {
+    rules: {
         "camelcase": 1,
         "no-alert": 1,
     }

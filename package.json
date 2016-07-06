@@ -10,13 +10,14 @@
         "url": "http://www.danielbeff.com.br"
     },
     "keywords": [
+        "eslintconfig",
+        "eslint",
         "react",
         "lint",
         "linter",
         "jscs",
         "jshint",
         "jslint",
-        "eslint",
         "check",
         "checker",
         "hint"
