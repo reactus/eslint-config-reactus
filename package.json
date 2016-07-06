@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "ESLint shareable config for Reactus",
     "license": "MIT",
-    "repository": "dbeff/eslint-config-reactus",
+    "repository": "reactus/eslint-config-reactus",
     "author": {
         "name": "Daniel Beff",
         "email": "daniel.beff@gmail.com",
